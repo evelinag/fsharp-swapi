@@ -36,7 +36,7 @@ In [swapi.co](https://swapi.co/), each resource is available through its ID numb
 
 All the functions use the [F# JSON type providers](http://fsharp.github.io/FSharp.Data/library/JsonProvider.html). You can access all the information they return using the dot:
 
-![swapi.gif]	
+![swapi.gif](swapi.gif)	
 
 ### Downloading all information
 
