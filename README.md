@@ -8,7 +8,7 @@ To use `fsharp-swapi`, you'll need to get the [F# Data library](http://fsharp.gi
 
 To use `fsharp-swapi`, simply reference the `swapi.fs` file from your solution. You can also add the file using the paket dependency manager by adding the following line into your paket.dependencies file:
 
-  github evelinag/fsharp-swapi swapi.fs
+	github evelinag/fsharp-swapi swapi.fs
 
 See paket documentation for more details on referencing Github dependencies.
 See [paket documentation](https://fsprojects.github.io/Paket/github-dependencies.html) for more details on referencing Github dependencies.
